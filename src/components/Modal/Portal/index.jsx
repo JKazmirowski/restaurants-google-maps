@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import ReactDOM from 'react-dom';
 
 const PortalModal = ({ children }) => {

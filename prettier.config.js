@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 module.exports = {
   printWidth: 100,
   useTabs: false,

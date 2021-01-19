@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { css } from 'styled-components';
 
 const TextMedium = css`

@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 export const Types = {
   SET_RESTAURANTS: 'restaurants/SET_RESTAURANTS',
   SET_RESTAURANT: 'restaurants/SET_RESTAURANT',

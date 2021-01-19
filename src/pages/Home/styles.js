@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+/* eslint-disable no-unused-vars */
 import styled from 'styled-components';
 import Slider from 'react-slick';
 
@@ -58,7 +60,7 @@ export const ModalTitle = styled.p`
 `;
 
 export const ModalContent = styled.p`
- margin-bottom: 10px;
+  margin-bottom: 10px;
   font-family: ${(props) => props.theme.fonts.regular};
   color: ${(props) => props.theme.colors.text};
   line-height: 19px;
